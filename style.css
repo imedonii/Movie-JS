@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: aquamarine;
+  background-color: black;
 }
 .cnt {
   display: flex;
@@ -57,7 +57,7 @@ a {
 .bcImg {
   padding-left: 30px;
   background-attachment: fixed;
-  background-image: url("images/bc.jfif");
+  background-image: url('images/bc.jfif');
 }
 
 a:hover {
